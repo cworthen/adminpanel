@@ -1,5 +1,7 @@
 # adminpanel
 
+### Summary:
+
 Completed: May 2016
 
 For this project the main goal was to build a user friendly admin panel with a login screen to manage data from the from the Alien Abduction intakeform. The admin panel is separate database that can read, add, delete, update, and search data without having to login into phpMyAdmin.
